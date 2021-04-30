@@ -5,7 +5,7 @@ echo <<<FDL
 <h1><center><span style="color: rgb(215, 112, 16);">420-4D4: DockerHub+GitHub</span></center></h1>
 <h2><center><span style="color: rgb(34, 139, 60);">Exemple d'une image de conteneur</span></center></h2>
 <h2><center><span style="color: rgb(34, 139, 60);">Reconstruite et publiée automatiquement</span></center></h2>
-<h3><center><span style="color: rgb(165, 8, 8);">Je suis la version 1.1 de l'image</span></center></h2>
+<h3><center><span style="color: rgb(165, 8, 8);">Je suis la version 2.0 de l'image</span></center></h2>
 <hr/><br/><br/><br/>
 
 <h1><center>Vous avez été servis par: <span style="color: rgb(165, 8, 8);">
